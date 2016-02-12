@@ -17,7 +17,7 @@ body{
     height: 40px;
 }
 .menu ul{
-    background: #4e4d4d;
+    background: linear-gradient(to top, #444343, #5e5e5e);
 }
 .menu,
 .logo,
@@ -42,7 +42,7 @@ p
 }
 
 .menu li:hover{
-    background: #3e3e3e;
+   background: linear-gradient(to top, #2e2e2e, #4a4a4a);
     border-left: 1px solid #ededed;
     border-right: 1px solid #ededed;
    }
